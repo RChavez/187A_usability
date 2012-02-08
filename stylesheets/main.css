@@ -1,0 +1,14 @@
+body {
+    font-family: "Trebuchet MS";
+    color: white;
+    background-image: url('https://github.com/RChavez/187A_usability/raw/master/images/navbar.jpg');
+    background-color: #222222;
+    background-repeat: repeat-y
+}
+.navigation {
+    float: left;
+    width: 250px;
+    height: 100%;
+    position: relative;
+    margin-top: 75px;
+}
