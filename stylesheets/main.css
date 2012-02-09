@@ -22,7 +22,17 @@ body {
 .offset_2 {
     margin-left: 45px;
 }
+.span12 {
+    margin-top: 25px;
+    margin-bottom: 50px;
+    text-align: center;
+}
 .span10 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.span4 {
     margin-top: 50px;
     margin-bottom: 50px;
     text-align: center;
